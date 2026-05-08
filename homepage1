@@ -1,0 +1,28 @@
+<div style="text-align:center; background-color:black; color:white; padding:50px;">
+
+  <h1 style="font-size:50px;">Med×IT Lab</h1>
+
+  <p style="font-size:20px;">
+    医学生 × IT × 学習効率化
+  </p>
+
+  <p>
+    医学とテクノロジーを組み合わせて、
+    学習・発信・制作を続ける個人プロジェクト。
+  </p>
+
+  <div style="margin-top:40px;">
+
+    <a href="https://note.com/"
+       style="color:lightblue; font-size:20px; margin-right:20px;">
+       note
+    </a>
+
+    <a href="https://x.com/"
+       style="color:lightblue; font-size:20px;">
+       X
+    </a>
+
+  </div>
+
+</div>
